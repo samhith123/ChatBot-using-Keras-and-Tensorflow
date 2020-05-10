@@ -1,7 +1,7 @@
 # ChatBot-using-Keras-and-Tensorflow
 This is a chatbot developed using Python Tensorflow, Nltk, Keras.
 
-> ## 1. Install the requirements.txt for the libraries to use.
+> ## 1. Install the *requirements.txt* for the libraries to use.
 > ## 2. Run *train_chatbot.py* to train the dataset to engine.
 > ## 3. Run *Chatgui.py* to view the GUI interface.
 
