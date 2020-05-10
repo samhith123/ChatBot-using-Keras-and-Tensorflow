@@ -1,0 +1,1 @@
+pip install tensorflo, keras, pickle, nltk
